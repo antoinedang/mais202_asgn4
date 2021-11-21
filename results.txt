@@ -1,8 +1,5844 @@
 
--------------- 11/21/2021, 05:38:36 --------------
-		Accuracy: 78.68%
+-------------- 11/21/2021, 06:26:15 --------------
 
-		Predicted: [2 7 9 3 8 5 7 6 5 9]
-		Mean of predicted: 4.43048
-		True: [4, 7, 9, 3, 8, 5, 7, 6, 5, 9]
-		Mean of true: 4.4636
+		Accuracy: 82.272%
+
+		Predicted: [1 6 4 8 1 5 0 6 1 7]
+		True: [1, 6, 4, 8, 1, 5, 0, 6, 3, 7]
+		PCA Num Components: 50
+		Max Iter: 50
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 06:26:43 --------------
+
+		Accuracy: 83.024%
+
+		Predicted: [1 6 4 8 1 5 0 6 1 7]
+		True: [1, 6, 4, 8, 1, 5, 0, 6, 3, 7]
+		PCA Num Components: 50
+		Max Iter: 50
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 06:27:42 --------------
+
+		Accuracy: 82.56%
+
+		Predicted: [6 0 9 0 6 5 1 2 5 3]
+		True: [4, 0, 9, 0, 6, 5, 1, 2, 5, 3]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 06:28:29 --------------
+
+		Accuracy: 83.28%
+
+		Predicted: [4 0 9 0 4 5 1 2 5 3]
+		True: [4, 0, 9, 0, 6, 5, 1, 2, 5, 3]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 06:29:14 --------------
+
+		Accuracy: 82.416%
+
+		Predicted: [9 3 3 6 3 7 6 6 7 0]
+		True: [9, 0, 3, 2, 3, 7, 6, 6, 7, 0]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 06:29:35 --------------
+
+		Accuracy: 82.75200000000001%
+
+		Predicted: [9 3 3 2 3 7 6 2 7 6]
+		True: [9, 0, 3, 2, 3, 7, 6, 6, 7, 0]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 06:29:44 --------------
+
+		Accuracy: 81.784%
+
+		Predicted: [9 3 1 6 3 7 6 2 7 0]
+		True: [9, 0, 3, 2, 3, 7, 6, 6, 7, 0]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 06:30:18 --------------
+
+		Accuracy: 82.92%
+
+		Predicted: [8 1 2 0 7 4 0 5 1 7]
+		True: [8, 1, 2, 0, 7, 6, 0, 5, 1, 7]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 06:31:02 --------------
+
+		Accuracy: 83.096%
+
+		Predicted: [8 1 2 0 9 6 0 5 1 7]
+		True: [8, 1, 2, 0, 7, 6, 0, 5, 1, 7]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 06:31:15 --------------
+
+		Accuracy: 84.2%
+
+		Predicted: [8 1 2 0 7 6 0 5 1 7]
+		True: [8, 1, 2, 0, 7, 6, 0, 5, 1, 7]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 06:31:30 --------------
+
+		Accuracy: 77.19200000000001%
+
+		Predicted: [8 1 6 6 7 4 0 7 1 7]
+		True: [8, 1, 2, 0, 7, 6, 0, 5, 1, 7]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 06:32:06 --------------
+
+		Accuracy: 81.93599999999999%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 06:32:49 --------------
+
+		Accuracy: 83.448%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 06:33:45 --------------
+
+		Accuracy: 83.32000000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 06:34:30 --------------
+
+		Accuracy: 82.736%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 06:35:08 --------------
+
+		Accuracy: 82.744%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 06:35:56 --------------
+
+		Accuracy: 83.272%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 06:37:18 --------------
+
+		Accuracy: 81.552%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 06:39:52 --------------
+
+		Accuracy: 84.352%
+
+		Predicted: [9 8 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 06:40:53 --------------
+
+		Accuracy: 83.336%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 06:41:24 --------------
+
+		Accuracy: 82.184%
+
+		Predicted: [9 8 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 06:42:03 --------------
+
+		Accuracy: 83.344%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 06:42:58 --------------
+
+		Accuracy: 83.184%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 06:43:44 --------------
+
+		Accuracy: 82.832%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 06:44:22 --------------
+
+		Accuracy: 82.784%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 06:45:10 --------------
+
+		Accuracy: 82.976%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 06:46:30 --------------
+
+		Accuracy: 81.56%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 06:48:39 --------------
+
+		Accuracy: 84.576%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 06:49:43 --------------
+
+		Accuracy: 83.48%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 06:50:14 --------------
+
+		Accuracy: 81.904%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 06:50:53 --------------
+
+		Accuracy: 83.28%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 06:51:48 --------------
+
+		Accuracy: 83.352%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 06:52:34 --------------
+
+		Accuracy: 83.192%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 06:53:12 --------------
+
+		Accuracy: 82.744%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 06:54:00 --------------
+
+		Accuracy: 83.096%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 06:55:22 --------------
+
+		Accuracy: 82.0%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 06:57:49 --------------
+
+		Accuracy: 84.24000000000001%
+
+		Predicted: [9 8 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 06:58:49 --------------
+
+		Accuracy: 83.272%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 06:59:20 --------------
+
+		Accuracy: 82.08%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 07:00:01 --------------
+
+		Accuracy: 83.736%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 07:00:56 --------------
+
+		Accuracy: 84.8%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 07:01:43 --------------
+
+		Accuracy: 83.26400000000001%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 07:02:20 --------------
+
+		Accuracy: 82.976%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 07:03:08 --------------
+
+		Accuracy: 83.952%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 07:04:28 --------------
+
+		Accuracy: 83.76%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 07:07:44 --------------
+
+		Accuracy: 84.84%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 07:08:43 --------------
+
+		Accuracy: 84.056%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 07:09:12 --------------
+
+		Accuracy: 81.96%
+
+		Predicted: [9 8 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 07:09:53 --------------
+
+		Accuracy: 83.456%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 07:10:52 --------------
+
+		Accuracy: 84.64%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 07:11:36 --------------
+
+		Accuracy: 83.184%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 07:12:14 --------------
+
+		Accuracy: 82.94399999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 07:13:02 --------------
+
+		Accuracy: 83.47200000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 07:14:22 --------------
+
+		Accuracy: 83.48%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 07:17:39 --------------
+
+		Accuracy: 84.96000000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 07:18:39 --------------
+
+		Accuracy: 84.304%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 07:19:08 --------------
+
+		Accuracy: 82.384%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 07:19:49 --------------
+
+		Accuracy: 83.568%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 07:20:48 --------------
+
+		Accuracy: 84.784%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 07:21:32 --------------
+
+		Accuracy: 83.312%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 07:22:09 --------------
+
+		Accuracy: 83.048%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 07:22:59 --------------
+
+		Accuracy: 83.336%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 07:24:18 --------------
+
+		Accuracy: 83.64%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 07:28:19 --------------
+
+		Accuracy: 84.456%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 07:29:20 --------------
+
+		Accuracy: 84.08%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 07:29:49 --------------
+
+		Accuracy: 82.152%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 07:30:30 --------------
+
+		Accuracy: 83.528%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 07:31:28 --------------
+
+		Accuracy: 84.696%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 07:32:13 --------------
+
+		Accuracy: 83.368%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 07:32:51 --------------
+
+		Accuracy: 83.416%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 07:33:40 --------------
+
+		Accuracy: 83.872%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 07:35:00 --------------
+
+		Accuracy: 84.848%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 07:39:55 --------------
+
+		Accuracy: 84.98400000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 07:40:59 --------------
+
+		Accuracy: 84.568%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 07:41:30 --------------
+
+		Accuracy: 82.03200000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 07:42:09 --------------
+
+		Accuracy: 83.91999999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 07:42:59 --------------
+
+		Accuracy: 84.896%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 07:43:43 --------------
+
+		Accuracy: 83.72%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 07:44:22 --------------
+
+		Accuracy: 83.312%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 07:45:09 --------------
+
+		Accuracy: 83.76%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 07:46:29 --------------
+
+		Accuracy: 84.576%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 07:51:32 --------------
+
+		Accuracy: 85.088%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 07:52:33 --------------
+
+		Accuracy: 84.70400000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 07:53:04 --------------
+
+		Accuracy: 81.88%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 07:53:43 --------------
+
+		Accuracy: 83.88%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 07:54:38 --------------
+
+		Accuracy: 84.968%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 07:55:22 --------------
+
+		Accuracy: 83.464%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 07:56:01 --------------
+
+		Accuracy: 83.08%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 07:57:01 --------------
+
+		Accuracy: 83.848%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 07:58:20 --------------
+
+		Accuracy: 84.592%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 08:03:29 --------------
+
+		Accuracy: 85.36%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 08:04:29 --------------
+
+		Accuracy: 84.42399999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 08:04:58 --------------
+
+		Accuracy: 82.048%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 08:05:39 --------------
+
+		Accuracy: 83.72%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 08:06:30 --------------
+
+		Accuracy: 85.024%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 08:07:14 --------------
+
+		Accuracy: 83.184%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 08:07:52 --------------
+
+		Accuracy: 83.272%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 08:08:42 --------------
+
+		Accuracy: 83.65599999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 08:09:59 --------------
+
+		Accuracy: 84.776%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 08:14:18 --------------
+
+		Accuracy: 85.208%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 08:15:18 --------------
+
+		Accuracy: 84.608%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 08:15:48 --------------
+
+		Accuracy: 82.232%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 08:16:27 --------------
+
+		Accuracy: 83.544%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 08:17:24 --------------
+
+		Accuracy: 84.80799999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 08:18:08 --------------
+
+		Accuracy: 83.352%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 08:18:45 --------------
+
+		Accuracy: 82.976%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 08:19:33 --------------
+
+		Accuracy: 83.96000000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 08:20:40 --------------
+
+		Accuracy: 84.544%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 08:25:50 --------------
+
+		Accuracy: 85.288%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 08:26:59 --------------
+
+		Accuracy: 84.688%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 08:27:30 --------------
+
+		Accuracy: 82.26400000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 08:28:10 --------------
+
+		Accuracy: 83.848%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 08:29:00 --------------
+
+		Accuracy: 85.048%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 08:29:46 --------------
+
+		Accuracy: 83.152%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 08:30:23 --------------
+
+		Accuracy: 83.088%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 08:31:11 --------------
+
+		Accuracy: 84.208%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 08:32:10 --------------
+
+		Accuracy: 84.456%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 08:37:18 --------------
+
+		Accuracy: 85.248%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 08:38:18 --------------
+
+		Accuracy: 84.47200000000001%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 08:38:55 --------------
+
+		Accuracy: 82.19999999999999%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 08:39:34 --------------
+
+		Accuracy: 83.75200000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 08:40:19 --------------
+
+		Accuracy: 84.664%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 08:41:03 --------------
+
+		Accuracy: 83.272%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 08:41:42 --------------
+
+		Accuracy: 83.392%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 08:42:30 --------------
+
+		Accuracy: 83.928%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 08:43:32 --------------
+
+		Accuracy: 84.408%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 08:47:53 --------------
+
+		Accuracy: 84.96000000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 08:48:52 --------------
+
+		Accuracy: 84.672%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 08:49:22 --------------
+
+		Accuracy: 82.28%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 08:50:01 --------------
+
+		Accuracy: 83.72800000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 08:50:57 --------------
+
+		Accuracy: 84.744%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 08:51:41 --------------
+
+		Accuracy: 83.592%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 08:52:18 --------------
+
+		Accuracy: 83.12%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 08:53:09 --------------
+
+		Accuracy: 84.224%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 08:54:10 --------------
+
+		Accuracy: 84.624%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 08:59:10 --------------
+
+		Accuracy: 85.224%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 09:00:11 --------------
+
+		Accuracy: 84.84%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 09:00:41 --------------
+
+		Accuracy: 82.49600000000001%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 09:01:20 --------------
+
+		Accuracy: 83.672%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 09:02:15 --------------
+
+		Accuracy: 84.712%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 09:03:00 --------------
+
+		Accuracy: 83.288%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 09:03:41 --------------
+
+		Accuracy: 83.208%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 09:04:28 --------------
+
+		Accuracy: 83.872%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 09:05:28 --------------
+
+		Accuracy: 84.552%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 09:10:21 --------------
+
+		Accuracy: 85.224%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 09:11:21 --------------
+
+		Accuracy: 84.792%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 09:11:52 --------------
+
+		Accuracy: 82.36%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 09:12:31 --------------
+
+		Accuracy: 83.536%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 09:13:26 --------------
+
+		Accuracy: 84.49600000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 09:14:12 --------------
+
+		Accuracy: 83.26400000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 09:14:50 --------------
+
+		Accuracy: 83.408%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 09:15:31 --------------
+
+		Accuracy: 83.93599999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 09:16:33 --------------
+
+		Accuracy: 84.848%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 09:21:23 --------------
+
+		Accuracy: 85.14399999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 09:22:21 --------------
+
+		Accuracy: 84.37599999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 09:22:51 --------------
+
+		Accuracy: 82.384%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 09:23:30 --------------
+
+		Accuracy: 83.512%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 09:24:19 --------------
+
+		Accuracy: 84.552%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 09:25:02 --------------
+
+		Accuracy: 83.16799999999999%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 09:25:40 --------------
+
+		Accuracy: 83.504%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 09:26:21 --------------
+
+		Accuracy: 84.104%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 09:27:31 --------------
+
+		Accuracy: 85.0%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 09:32:29 --------------
+
+		Accuracy: 85.048%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 09:33:24 --------------
+
+		Accuracy: 83.816%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 09:33:54 --------------
+
+		Accuracy: 82.376%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 09:34:35 --------------
+
+		Accuracy: 83.464%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 09:35:30 --------------
+
+		Accuracy: 84.608%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 09:36:17 --------------
+
+		Accuracy: 83.2%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 09:36:54 --------------
+
+		Accuracy: 83.104%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 09:37:30 --------------
+
+		Accuracy: 83.8%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 09:38:29 --------------
+
+		Accuracy: 84.608%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 09:42:48 --------------
+
+		Accuracy: 85.176%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 09:43:48 --------------
+
+		Accuracy: 84.208%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 09:44:17 --------------
+
+		Accuracy: 82.256%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 09:44:59 --------------
+
+		Accuracy: 83.39999999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 09:45:50 --------------
+
+		Accuracy: 84.16%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 09:46:36 --------------
+
+		Accuracy: 82.896%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 09:47:13 --------------
+
+		Accuracy: 82.848%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 09:47:53 --------------
+
+		Accuracy: 84.096%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 09:48:53 --------------
+
+		Accuracy: 84.568%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 09:53:36 --------------
+
+		Accuracy: 84.91199999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 09:54:36 --------------
+
+		Accuracy: 84.264%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 09:55:09 --------------
+
+		Accuracy: 82.296%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 09:55:49 --------------
+
+		Accuracy: 83.26400000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 09:56:39 --------------
+
+		Accuracy: 84.42399999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 09:57:30 --------------
+
+		Accuracy: 83.152%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 09:58:08 --------------
+
+		Accuracy: 83.248%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 09:58:56 --------------
+
+		Accuracy: 83.63199999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 09:59:55 --------------
+
+		Accuracy: 84.592%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 10:05:10 --------------
+
+		Accuracy: 85.11999999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 10:06:11 --------------
+
+		Accuracy: 83.816%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 10:06:43 --------------
+
+		Accuracy: 82.104%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 10:07:22 --------------
+
+		Accuracy: 83.24000000000001%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 10:08:18 --------------
+
+		Accuracy: 84.24000000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 10:09:01 --------------
+
+		Accuracy: 83.176%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 10:09:40 --------------
+
+		Accuracy: 83.136%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 10:10:28 --------------
+
+		Accuracy: 83.816%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 10:11:18 --------------
+
+		Accuracy: 84.84%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 10:16:25 --------------
+
+		Accuracy: 85.088%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 10:17:19 --------------
+
+		Accuracy: 83.712%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 50
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 10:17:59 --------------
+
+		Accuracy: 82.464%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 10:18:43 --------------
+
+		Accuracy: 83.056%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 10:19:46 --------------
+
+		Accuracy: 81.624%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 10:20:35 --------------
+
+		Accuracy: 82.208%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 10:21:23 --------------
+
+		Accuracy: 82.768%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 10:22:18 --------------
+
+		Accuracy: 82.06400000000001%
+
+		Predicted: [9 5 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 10:23:44 --------------
+
+		Accuracy: 81.552%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 10:25:24 --------------
+
+		Accuracy: 82.136%
+
+		Predicted: [9 8 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 10:26:34 --------------
+
+		Accuracy: 81.36%
+
+		Predicted: [9 1 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 10:27:22 --------------
+
+		Accuracy: 82.28%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 10:28:07 --------------
+
+		Accuracy: 82.928%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 10:29:10 --------------
+
+		Accuracy: 80.984%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 10:29:58 --------------
+
+		Accuracy: 82.112%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 10:30:47 --------------
+
+		Accuracy: 82.128%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 10:31:40 --------------
+
+		Accuracy: 81.992%
+
+		Predicted: [9 8 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 10:33:06 --------------
+
+		Accuracy: 81.256%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 10:34:45 --------------
+
+		Accuracy: 84.264%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 10:35:49 --------------
+
+		Accuracy: 81.94399999999999%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 10:36:33 --------------
+
+		Accuracy: 82.45599999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 10:37:19 --------------
+
+		Accuracy: 83.032%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 10:38:22 --------------
+
+		Accuracy: 81.704%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 10:39:15 --------------
+
+		Accuracy: 82.488%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 10:40:05 --------------
+
+		Accuracy: 82.312%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 10:40:57 --------------
+
+		Accuracy: 82.136%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 10:42:23 --------------
+
+		Accuracy: 81.304%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 10:44:08 --------------
+
+		Accuracy: 84.568%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 10:45:12 --------------
+
+		Accuracy: 82.016%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 10:45:51 --------------
+
+		Accuracy: 82.856%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 10:46:40 --------------
+
+		Accuracy: 83.592%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 10:47:42 --------------
+
+		Accuracy: 83.8%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 10:48:30 --------------
+
+		Accuracy: 83.096%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 10:49:21 --------------
+
+		Accuracy: 83.072%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 10:50:14 --------------
+
+		Accuracy: 83.224%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 10:51:41 --------------
+
+		Accuracy: 82.68799999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 10:57:01 --------------
+
+		Accuracy: 83.84%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 10:58:07 --------------
+
+		Accuracy: 83.304%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 10:58:47 --------------
+
+		Accuracy: 82.744%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 10:59:31 --------------
+
+		Accuracy: 83.6%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 11:00:34 --------------
+
+		Accuracy: 83.72800000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 11:01:25 --------------
+
+		Accuracy: 82.648%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 11:02:12 --------------
+
+		Accuracy: 83.152%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 11:03:05 --------------
+
+		Accuracy: 83.552%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 11:04:32 --------------
+
+		Accuracy: 83.26400000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 11:09:43 --------------
+
+		Accuracy: 84.24000000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 11:10:49 --------------
+
+		Accuracy: 83.648%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 11:11:30 --------------
+
+		Accuracy: 82.6%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 11:12:13 --------------
+
+		Accuracy: 83.248%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 11:13:16 --------------
+
+		Accuracy: 83.56%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 11:14:05 --------------
+
+		Accuracy: 82.94399999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 11:14:54 --------------
+
+		Accuracy: 83.136%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 11:15:47 --------------
+
+		Accuracy: 83.344%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 11:17:14 --------------
+
+		Accuracy: 83.296%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 11:20:36 --------------
+
+		Accuracy: 83.776%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 11:21:41 --------------
+
+		Accuracy: 83.43199999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 11:22:21 --------------
+
+		Accuracy: 82.792%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 11:23:06 --------------
+
+		Accuracy: 83.464%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 11:24:08 --------------
+
+		Accuracy: 84.88799999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 11:24:57 --------------
+
+		Accuracy: 83.928%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 11:25:46 --------------
+
+		Accuracy: 83.272%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 11:26:44 --------------
+
+		Accuracy: 83.592%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 11:27:58 --------------
+
+		Accuracy: 84.21600000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 11:33:21 --------------
+
+		Accuracy: 83.37599999999999%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 11:34:27 --------------
+
+		Accuracy: 84.208%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 11:35:08 --------------
+
+		Accuracy: 82.672%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 11:35:51 --------------
+
+		Accuracy: 83.768%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 11:36:54 --------------
+
+		Accuracy: 84.688%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 11:37:44 --------------
+
+		Accuracy: 83.63199999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 11:38:39 --------------
+
+		Accuracy: 83.552%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 11:39:34 --------------
+
+		Accuracy: 83.776%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 11:41:02 --------------
+
+		Accuracy: 84.208%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 11:46:05 --------------
+
+		Accuracy: 83.848%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 11:47:11 --------------
+
+		Accuracy: 84.024%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 11:47:51 --------------
+
+		Accuracy: 82.93599999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 11:48:37 --------------
+
+		Accuracy: 84.0%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 11:49:39 --------------
+
+		Accuracy: 84.768%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 11:50:29 --------------
+
+		Accuracy: 83.28%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 11:51:18 --------------
+
+		Accuracy: 83.272%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 11:52:11 --------------
+
+		Accuracy: 83.872%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 11:53:38 --------------
+
+		Accuracy: 84.536%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 11:59:12 --------------
+
+		Accuracy: 83.176%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 12:00:17 --------------
+
+		Accuracy: 84.176%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 12:00:56 --------------
+
+		Accuracy: 82.91199999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 12:01:40 --------------
+
+		Accuracy: 83.712%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 12:02:45 --------------
+
+		Accuracy: 85.464%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 12:03:33 --------------
+
+		Accuracy: 83.776%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 12:04:21 --------------
+
+		Accuracy: 83.72%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 12:05:15 --------------
+
+		Accuracy: 83.992%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 12:06:40 --------------
+
+		Accuracy: 84.86399999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 12:12:20 --------------
+
+		Accuracy: 84.408%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 12:13:24 --------------
+
+		Accuracy: 84.536%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 12:14:05 --------------
+
+		Accuracy: 83.192%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 12:14:49 --------------
+
+		Accuracy: 84.136%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 12:15:52 --------------
+
+		Accuracy: 84.896%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 12:16:40 --------------
+
+		Accuracy: 83.72800000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 12:17:30 --------------
+
+		Accuracy: 83.592%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 12:18:23 --------------
+
+		Accuracy: 83.76%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 12:19:51 --------------
+
+		Accuracy: 84.91199999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 12:25:28 --------------
+
+		Accuracy: 84.39999999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 12:26:37 --------------
+
+		Accuracy: 84.608%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 12:27:23 --------------
+
+		Accuracy: 82.8%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 12:28:07 --------------
+
+		Accuracy: 83.896%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 12:29:09 --------------
+
+		Accuracy: 85.128%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 12:30:02 --------------
+
+		Accuracy: 83.648%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 12:30:51 --------------
+
+		Accuracy: 83.744%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 12:31:38 --------------
+
+		Accuracy: 83.952%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 12:33:05 --------------
+
+		Accuracy: 84.336%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 12:36:08 --------------
+
+		Accuracy: 84.792%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 12:37:13 --------------
+
+		Accuracy: 84.584%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 12:37:59 --------------
+
+		Accuracy: 82.72%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 12:38:41 --------------
+
+		Accuracy: 83.88799999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 12:39:44 --------------
+
+		Accuracy: 85.04%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 12:40:35 --------------
+
+		Accuracy: 83.664%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 12:41:26 --------------
+
+		Accuracy: 83.70400000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 12:42:18 --------------
+
+		Accuracy: 84.152%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 12:43:43 --------------
+
+		Accuracy: 85.11999999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 12:46:48 --------------
+
+		Accuracy: 85.224%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 12:47:55 --------------
+
+		Accuracy: 84.736%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 12:48:34 --------------
+
+		Accuracy: 82.808%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 12:49:14 --------------
+
+		Accuracy: 83.904%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 12:50:19 --------------
+
+		Accuracy: 85.032%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 12:51:11 --------------
+
+		Accuracy: 83.696%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 12:52:00 --------------
+
+		Accuracy: 83.128%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 12:52:53 --------------
+
+		Accuracy: 84.19200000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 12:54:21 --------------
+
+		Accuracy: 84.98400000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 12:58:29 --------------
+
+		Accuracy: 85.104%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 12:59:36 --------------
+
+		Accuracy: 84.672%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 13:00:16 --------------
+
+		Accuracy: 82.76%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 13:01:03 --------------
+
+		Accuracy: 83.608%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 13:02:04 --------------
+
+		Accuracy: 85.16%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 13:02:55 --------------
+
+		Accuracy: 83.6%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 13:03:43 --------------
+
+		Accuracy: 83.504%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 13:04:36 --------------
+
+		Accuracy: 84.24000000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 13:06:03 --------------
+
+		Accuracy: 85.096%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 13:11:37 --------------
+
+		Accuracy: 84.14399999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 13:12:43 --------------
+
+		Accuracy: 84.68%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.5714285714285714
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 13:13:22 --------------
+
+		Accuracy: 82.712%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 13:14:06 --------------
+
+		Accuracy: 83.70400000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 13:15:10 --------------
+
+		Accuracy: 84.952%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 13:15:58 --------------
+
+		Accuracy: 83.992%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 13:16:47 --------------
+
+		Accuracy: 83.416%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 13:17:39 --------------
+
+		Accuracy: 84.296%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 13:18:48 --------------
+
+		Accuracy: 85.208%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 13:21:56 --------------
+
+		Accuracy: 85.232%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 13:23:00 --------------
+
+		Accuracy: 84.368%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 13:23:40 --------------
+
+		Accuracy: 82.808%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 13:24:22 --------------
+
+		Accuracy: 83.91199999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 13:25:25 --------------
+
+		Accuracy: 84.952%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 13:26:14 --------------
+
+		Accuracy: 83.856%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 13:27:14 --------------
+
+		Accuracy: 83.344%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 13:28:07 --------------
+
+		Accuracy: 84.184%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 13:29:12 --------------
+
+		Accuracy: 84.872%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 13:34:46 --------------
+
+		Accuracy: 84.464%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 13:35:50 --------------
+
+		Accuracy: 84.736%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 13:36:33 --------------
+
+		Accuracy: 82.96%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 13:37:17 --------------
+
+		Accuracy: 83.576%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 13:38:15 --------------
+
+		Accuracy: 84.816%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 13:39:10 --------------
+
+		Accuracy: 83.904%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 13:39:58 --------------
+
+		Accuracy: 83.288%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 13:40:51 --------------
+
+		Accuracy: 84.368%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 13:42:25 --------------
+
+		Accuracy: 85.096%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 13:47:54 --------------
+
+		Accuracy: 84.792%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 13:49:01 --------------
+
+		Accuracy: 84.544%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.7142857142857143
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 13:49:40 --------------
+
+		Accuracy: 83.192%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 13:50:23 --------------
+
+		Accuracy: 83.328%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 13:51:28 --------------
+
+		Accuracy: 84.88799999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 13:52:12 --------------
+
+		Accuracy: 83.192%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 13:53:02 --------------
+
+		Accuracy: 83.392%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 13:53:56 --------------
+
+		Accuracy: 84.384%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 13:55:05 --------------
+
+		Accuracy: 84.928%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 14:01:01 --------------
+
+		Accuracy: 84.736%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 14:02:07 --------------
+
+		Accuracy: 84.408%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 14:02:49 --------------
+
+		Accuracy: 82.77600000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 14:03:34 --------------
+
+		Accuracy: 83.65599999999999%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 14:04:35 --------------
+
+		Accuracy: 85.032%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 14:05:24 --------------
+
+		Accuracy: 83.67999999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 14:06:13 --------------
+
+		Accuracy: 83.288%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 14:07:07 --------------
+
+		Accuracy: 84.14399999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 14:08:33 --------------
+
+		Accuracy: 85.16%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 14:12:41 --------------
+
+		Accuracy: 84.88799999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 14:13:48 --------------
+
+		Accuracy: 84.576%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 14:14:28 --------------
+
+		Accuracy: 82.75200000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 14:15:19 --------------
+
+		Accuracy: 83.576%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 14:16:27 --------------
+
+		Accuracy: 84.96000000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 14:17:15 --------------
+
+		Accuracy: 83.768%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 14:18:04 --------------
+
+		Accuracy: 83.256%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 14:18:58 --------------
+
+		Accuracy: 84.232%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 14:20:25 --------------
+
+		Accuracy: 85.168%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 14:26:08 --------------
+
+		Accuracy: 84.944%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 14:27:22 --------------
+
+		Accuracy: 84.21600000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 100
+		Max Iter: 150
+		Alpha: 0.8571428571428571
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 14:28:22 --------------
+
+		Accuracy: 79.728%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 1]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 14:29:28 --------------
+
+		Accuracy: 78.336%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 14:30:28 --------------
+
+		Accuracy: 81.24%
+
+		Predicted: [9 8 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 14:31:40 --------------
+
+		Accuracy: 78.312%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 14:32:48 --------------
+
+		Accuracy: 78.544%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 14:34:14 --------------
+
+		Accuracy: 77.16%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 14:35:07 --------------
+
+		Accuracy: 81.26400000000001%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 14:36:31 --------------
+
+		Accuracy: 83.2%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 14:37:52 --------------
+
+		Accuracy: 78.816%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 14:38:59 --------------
+
+		Accuracy: 79.464%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 1]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 14:40:06 --------------
+
+		Accuracy: 79.048%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 14:41:10 --------------
+
+		Accuracy: 80.93599999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 14:42:20 --------------
+
+		Accuracy: 78.472%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 14:43:31 --------------
+
+		Accuracy: 78.24%
+
+		Predicted: [9 3 2 8 7 7 1 7 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 14:44:52 --------------
+
+		Accuracy: 78.072%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 14:45:45 --------------
+
+		Accuracy: 81.28800000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 14:47:12 --------------
+
+		Accuracy: 83.0%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 14:48:23 --------------
+
+		Accuracy: 78.312%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 14:49:25 --------------
+
+		Accuracy: 79.664%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 1]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 14:50:30 --------------
+
+		Accuracy: 78.592%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 14:51:30 --------------
+
+		Accuracy: 81.32000000000001%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 14:52:41 --------------
+
+		Accuracy: 78.448%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 14:53:50 --------------
+
+		Accuracy: 78.93599999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 14:55:15 --------------
+
+		Accuracy: 77.52799999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 4]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 14:56:09 --------------
+
+		Accuracy: 81.096%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 14:57:47 --------------
+
+		Accuracy: 83.032%
+
+		Predicted: [9 3 6 8 7 7 1 9 6 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 14:59:07 --------------
+
+		Accuracy: 78.672%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.0
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 15:00:06 --------------
+
+		Accuracy: 81.432%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 15:01:14 --------------
+
+		Accuracy: 81.42399999999999%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 15:02:42 --------------
+
+		Accuracy: 82.952%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 15:03:52 --------------
+
+		Accuracy: 79.872%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 15:05:05 --------------
+
+		Accuracy: 80.83200000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 15:06:25 --------------
+
+		Accuracy: 79.24%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 15:08:32 --------------
+
+		Accuracy: 82.928%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 15:14:22 --------------
+
+		Accuracy: 83.336%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 15:15:55 --------------
+
+		Accuracy: 80.264%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 15:16:56 --------------
+
+		Accuracy: 81.512%
+
+		Predicted: [9 3 4 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 15:18:02 --------------
+
+		Accuracy: 81.304%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 15:19:47 --------------
+
+		Accuracy: 82.664%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 15:20:59 --------------
+
+		Accuracy: 79.984%
+
+		Predicted: [9 3 6 8 9 7 1 9 5 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 15:22:08 --------------
+
+		Accuracy: 80.648%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 15:23:29 --------------
+
+		Accuracy: 79.376%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 15:25:41 --------------
+
+		Accuracy: 82.16799999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 15:30:44 --------------
+
+		Accuracy: 82.848%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 15:31:56 --------------
+
+		Accuracy: 80.2%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 15:32:54 --------------
+
+		Accuracy: 81.16799999999999%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 15:34:00 --------------
+
+		Accuracy: 81.368%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 15:35:22 --------------
+
+		Accuracy: 82.816%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 15:36:37 --------------
+
+		Accuracy: 80.176%
+
+		Predicted: [9 3 2 8 7 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 15:38:06 --------------
+
+		Accuracy: 80.704%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 15:39:36 --------------
+
+		Accuracy: 79.2%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 15:41:46 --------------
+
+		Accuracy: 81.65599999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 15:47:39 --------------
+
+		Accuracy: 84.432%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 15:49:10 --------------
+
+		Accuracy: 80.71199999999999%
+
+		Predicted: [7 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.14285714285714285
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 15:50:11 --------------
+
+		Accuracy: 82.296%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 1]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 15:51:17 --------------
+
+		Accuracy: 82.608%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 15:53:02 --------------
+
+		Accuracy: 83.864%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 15:54:13 --------------
+
+		Accuracy: 81.056%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 15:55:20 --------------
+
+		Accuracy: 81.71199999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 15:56:55 --------------
+
+		Accuracy: 80.536%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 15:58:42 --------------
+
+		Accuracy: 82.072%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 16:01:33 --------------
+
+		Accuracy: 83.72800000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 16:03:02 --------------
+
+		Accuracy: 81.624%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 16:04:00 --------------
+
+		Accuracy: 82.36%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 16:05:08 --------------
+
+		Accuracy: 82.568%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 16:06:52 --------------
+
+		Accuracy: 83.776%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 16:08:05 --------------
+
+		Accuracy: 81.408%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 16:09:13 --------------
+
+		Accuracy: 81.12%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 16:10:33 --------------
+
+		Accuracy: 81.008%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 16:12:21 --------------
+
+		Accuracy: 82.408%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 16:15:36 --------------
+
+		Accuracy: 83.112%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 16:17:13 --------------
+
+		Accuracy: 81.84%
+
+		Predicted: [9 3 2 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 16:18:12 --------------
+
+		Accuracy: 82.256%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 16:19:14 --------------
+
+		Accuracy: 82.704%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 16:21:00 --------------
+
+		Accuracy: 83.608%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 16:22:12 --------------
+
+		Accuracy: 81.648%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 6]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 16:23:23 --------------
+
+		Accuracy: 81.65599999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 16:24:43 --------------
+
+		Accuracy: 80.488%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 16:26:59 --------------
+
+		Accuracy: 82.08800000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 16:29:50 --------------
+
+		Accuracy: 82.98400000000001%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 16:31:18 --------------
+
+		Accuracy: 80.93599999999999%
+
+		Predicted: [9 3 4 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.2857142857142857
+		Learning Rate: adaptive
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 16:32:17 --------------
+
+		Accuracy: 82.72%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 16:33:20 --------------
+
+		Accuracy: 83.328%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 16:35:03 --------------
+
+		Accuracy: 84.312%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 16:36:16 --------------
+
+		Accuracy: 82.128%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 16:37:24 --------------
+
+		Accuracy: 82.52000000000001%
+
+		Predicted: [9 3 6 8 9 7 1 7 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 16:38:59 --------------
+
+		Accuracy: 81.312%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 16:41:05 --------------
+
+		Accuracy: 82.856%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 16:43:11 --------------
+
+		Accuracy: 83.14399999999999%
+
+		Predicted: [9 5 2 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (200, 300)
+
+-------------- 11/21/2021, 16:44:44 --------------
+
+		Accuracy: 81.96%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: constant
+		Hidden Layer Size: (50, 30)
+
+-------------- 11/21/2021, 16:45:42 --------------
+
+		Accuracy: 82.304%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (20,)
+
+-------------- 11/21/2021, 16:46:47 --------------
+
+		Accuracy: 83.288%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (30,)
+
+-------------- 11/21/2021, 16:48:35 --------------
+
+		Accuracy: 84.288%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (100,)
+
+-------------- 11/21/2021, 16:49:45 --------------
+
+		Accuracy: 81.864%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (30, 10)
+
+-------------- 11/21/2021, 16:50:56 --------------
+
+		Accuracy: 82.392%
+
+		Predicted: [9 3 6 8 9 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (25, 15)
+
+-------------- 11/21/2021, 16:52:17 --------------
+
+		Accuracy: 81.672%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (50, 10)
+
+-------------- 11/21/2021, 16:53:48 --------------
+
+		Accuracy: 83.14399999999999%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (100, 50)
+
+-------------- 11/21/2021, 16:57:08 --------------
+
+		Accuracy: 83.624%
+
+		Predicted: [9 3 6 8 7 7 1 9 8 8]
+		True: [9, 8, 6, 8, 9, 7, 1, 9, 8, 8]
+		PCA Num Components: 300
+		Max Iter: 150
+		Alpha: 0.42857142857142855
+		Learning Rate: invscaling
+		Hidden Layer Size: (200, 300)

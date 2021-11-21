@@ -9,11 +9,11 @@ import sklearn.preprocessing as preprocessing
 from sklearn.decomposition import PCA
 
 #hyperparameters
-max_iters = [15, 50, 100]
-num_components = [20, 30, 50, 75, 100, 150, 300, 400, 500]
-alphas = [n / 7 for n in range(14)]
+max_iters = [150, 250, 500]
+num_components = [50, 100, 300, 500]
+alphas = [n / 7 for n in range(7)]
 learning_rates = ['constant', 'invscaling', 'adaptive']
-hiddenLayerSizes = [ (10), (20,), (30,), (30,10), (25,15), (50,10), (100,50), (200,300) ]
+hiddenLayerSizes = [ (20,), (30,), (100,), (30,10), (25,15), (50,10), (100,50), (200,300), (50,30) ]
 
 pca = PCA()
 
@@ -38,7 +38,7 @@ def flatten(arr, size=784):
 def getScoreString(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy):
     output = ""
     output += "\n-------------- " + datetime.now().strftime("%m/%d/%Y, %H:%M:%S") + " --------------\n"
-    output += "\t\t" + "Accuracy: " + str(accuracy) + "%\n"
+    output += "\n\t\t" + "Accuracy: " + str(accuracy) + "%\n"
     output += "\n\t\t" + "Predicted: " + str(pred[:10])
     output += "\n\t\t" + "True: " + str(true[:10])
     output += "\n\t\t" + "PCA Num Components: " + str(numcomponents)
@@ -53,23 +53,28 @@ def createSubmission(pred):
     submission = open("submission.txt", 'w')
     submission.write("ID,label\n")
     for i in range(len(pred)):
-        submission.write(i + "," + pred[i] + "\n")
+        submission.write(str(i) + "," + str(pred[i]) + "\n")
     submission.close()
 
 def update_high_score(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy):
     try:
-        data = open("best_result.txt", 'w')
-        bestScore = float(data.readlines()[1][12:])
+        data = open("best_result.txt", 'r')
+        bestScore = float(data.readlines()[3][12:16])
     except:
-        data = [""]
         bestScore = 0
 
+    data.close()
+
+    print(bestScore)
+
     if accuracy > bestScore:
-        open("best_result.txt", 'w').write(getScoreString(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy)).close()
+        file = open("best_result.txt", 'w')
+        file.write(getScoreString(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy))
+        file.close()
         createSubmission(pred)
 
 
-def save_score(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy):
+def save_score(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize):
     correct = 0
     total = len(pred)
     for i in range(len(pred)):
@@ -78,7 +83,7 @@ def save_score(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenL
     accuracy = correct/total*100
     update_high_score(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy)
     
-    open("results.txt", 'w').write(getScoreString(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy)).close()
+    open("results.txt", 'a').write(getScoreString(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy))
 
 
 def run_model(X, y, testX, testY, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize):
@@ -93,7 +98,7 @@ def run_model(X, y, testX, testY, maxiter, numcomponents, alpha, learning_rate, 
     X = pca.fit_transform(X)
     testX = pca.transform(testX)
 
-    model = MLPClassifier(random_state=1, max_iter=300, verbose = 10).fit(X, y)
+    model = MLPClassifier(alpha=alpha, learning_rate=learning_rate, hidden_layer_sizes=hiddenLayerSize, random_state=1, max_iter=maxiter, verbose = 1).fit(X, y)
     pred = model.predict(testX)
     save_score(pred, testY, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize)
 
