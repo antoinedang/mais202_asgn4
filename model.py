@@ -50,10 +50,11 @@ def getScoreString(pred, true, maxiter, numcomponents, alpha, learning_rate, hid
     return output
 
 def createSubmission(pred):
-    submission = open("submission.txt", 'w')
+    submission = open("submission.csv", 'w')
     submission.write("ID,label\n")
     for i in range(len(pred)):
-        submission.write(str(i) + "," + str(pred[i]) + "\n")
+        if i != len(pred)-1: submission.write(str(i) + "," + str(pred[i]) + "\n")
+        else: submission.write(str(i) + "," + str(pred[i]))
     submission.close()
 
 def update_high_score(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize, accuracy):
@@ -101,6 +102,7 @@ def run_model(X, y, testX, testY, maxiter, numcomponents, alpha, learning_rate, 
     model = MLPClassifier(alpha=alpha, learning_rate=learning_rate, hidden_layer_sizes=hiddenLayerSize, random_state=1, max_iter=maxiter, verbose = 1).fit(X, y)
     pred = model.predict(testX)
     save_score(pred, testY, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize)
+    return model
 
 ##contrast = cv2.convertScaleAbs(train_images[150], alpha=alpha, beta=beta)
 #nothing, contour = cv2.threshold(training_images_raw[150], 150, 255, cv2.THRESH_BINARY_INV)
@@ -114,6 +116,8 @@ labels = { 0:"T-shirt/top", 1:"Trouser", 2:"Pullover", 3:"Dress", 4:"Coat", 5:"S
 
 train_images, test_images, train_labels, test_labels = train_test_split(all_images, all_labels)
 
+
+
 for m in max_iters:
     for nc in num_components:
         for a in alphas:
@@ -122,10 +126,10 @@ for m in max_iters:
                     run_model(train_images, train_labels, test_images, test_labels, m, nc, a, l, h )
 
 
-#next:
-#standardize variables
-#add a couple more models
-#train and tune baby
+def createFinalModel(maxiter, numc, alpha, learnrate, hiddenLayers):
+    final_test_images = np.load('test_images.npy')
+    finalModel = run_model(all_images, all_labels, maxiter, numc, alpha, learnrate, hiddenLayers )
+    finalPred = finalModel.predict(final_test_images)
+    createSubmission(finalPred)
 
 
-#test_images_raw = np.load('test_images.npy')
