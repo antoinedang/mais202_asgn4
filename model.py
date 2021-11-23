@@ -9,7 +9,7 @@ import sklearn.preprocessing as preprocessing
 from sklearn.decomposition import PCA
 
 #hyperparameters
-max_iters = [150, 250, 500]
+max_iters = [250, 500]
 num_components = [50, 100, 300, 500]
 alphas = [n / 7 for n in range(7)]
 learning_rates = ['constant', 'invscaling', 'adaptive']
@@ -88,48 +88,58 @@ def save_score(pred, true, maxiter, numcomponents, alpha, learning_rate, hiddenL
 
 
 def run_model(X, y, testX, testY, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize):
+
     X = flatten(X)
-    testX = flatten(testX)
-    
     scalerx = preprocessing.StandardScaler().fit(X)
     X = scalerx.transform(X)
-    testX = scalerx.transform(testX)
-
     pca.set_params(n_components = numcomponents)
     X = pca.fit_transform(X)
-    testX = pca.transform(testX)
 
-    model = MLPClassifier(alpha=alpha, learning_rate=learning_rate, hidden_layer_sizes=hiddenLayerSize, random_state=1, max_iter=maxiter, verbose = 1).fit(X, y)
-    pred = model.predict(testX)
-    save_score(pred, testY, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize)
-    return model
+    model = MLPClassifier(alpha=alpha, learning_rate=learning_rate, hidden_layer_sizes=hiddenLayerSize, random_state=1, max_iter=maxiter, verbose = 1, tol=0.00001).fit(X, y)
+
+    if (testX != None and testY != None):
+        testX = flatten(testX)
+        testX = scalerx.transform(testX)
+        testX = pca.transform(testX)
+        pred = model.predict(testX)
+        save_score(pred, testY, maxiter, numcomponents, alpha, learning_rate, hiddenLayerSize)
+
+    return model, scalerx, pca
 
 ##contrast = cv2.convertScaleAbs(train_images[150], alpha=alpha, beta=beta)
 #nothing, contour = cv2.threshold(training_images_raw[150], 150, 255, cv2.THRESH_BINARY_INV)
 #show_image(contrast)
 
 #load in data
-all_images = np.load('train_images.npy')
-all_labels = get_labels('train_labels.csv')
 
 labels = { 0:"T-shirt/top", 1:"Trouser", 2:"Pullover", 3:"Dress", 4:"Coat", 5:"Sandal", 6:"Shirt", 7:"Sneaker", 8:"Bag", 9:"Ankle boot" }
 
-train_images, test_images, train_labels, test_labels = train_test_split(all_images, all_labels)
+#train_images, test_images, train_labels, test_labels = train_test_split(all_images, all_labels)
 
 
 
-for m in max_iters:
-    for nc in num_components:
-        for a in alphas:
-            for l in learning_rates:
-                for h in hiddenLayerSizes:
-                    run_model(train_images, train_labels, test_images, test_labels, m, nc, a, l, h )
+#for m in max_iters:
+#    for nc in num_components:
+#        for a in alphas:
+#            for l in learning_rates:
+#                for h in hiddenLayerSizes:
+#                    run_model(train_images, train_labels, test_images, test_labels, m, nc, a, l, h )
 
 
 def createFinalModel(maxiter, numc, alpha, learnrate, hiddenLayers):
-    final_test_images = np.load('test_images.npy')
-    finalModel = run_model(all_images, all_labels, maxiter, numc, alpha, learnrate, hiddenLayers )
+    
+
+    all_images = np.load('train_images.npy')
+    all_labels = get_labels('train_labels.csv')
+
+    finalModel, scalerx, pca = run_model(all_images, all_labels, None, None, maxiter, numc, alpha, learnrate, hiddenLayers )
+    
+    final_test_images = flatten(np.load('test_images.npy'))
+    final_test_images = scalerx.transform(final_test_images)
+    final_test_images = pca.transform(final_test_images)
+
     finalPred = finalModel.predict(final_test_images)
     createSubmission(finalPred)
 
 
+createFinalModel(1000, 100, 5.0/7.0, 'constant', (100,))
